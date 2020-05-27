@@ -34,7 +34,7 @@ height_number : Altura de imagen
 
     # = pos +- width*3 +- Num
 
-    Esta ecuación es la base para el algoritmo implementado para recorrer los pixcels del archivo (Imagen)
+    Esta ecuación es la base para el algoritmo implementado para recorrer los pixels del archivo (Imagen)
 ```
 
 ## Ejemplo del algoritmo: 
@@ -109,4 +109,5 @@ height_number : Altura de imagen
 1. Python >>> python3 code_python.py
 2. NASM   >>> sudo ./generar.sh code
 3. Python >>> python3 show_images.py
+
 ```

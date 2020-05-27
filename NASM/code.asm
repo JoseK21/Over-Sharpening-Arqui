@@ -9,9 +9,6 @@
 %include "_kernelSharpening.asm"
 %include "_kernelOverSharpening.asm"
 
-; CONSTANTS
-section .data 
-    newline db 10, 0
 
 ; VARIABLES
 section .bss 
